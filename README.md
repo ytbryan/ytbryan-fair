@@ -1,6 +1,6 @@
 # fair
 
-![fair](images/fair.webp)
+![fair](images/fair-small.png)
 
 Fair is a simple virtual dice and a simple queue. It can be used for various purposes like duty rostering or just random arrowing of work. 
 
