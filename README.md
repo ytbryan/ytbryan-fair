@@ -6,6 +6,14 @@ Fair is a simple virtual dice and a simple queue. It can be used for various pur
 
 There is a turn system. Each turn only calls the name once. We cannot call a name twice within each turn. After every turn, the dice restart.
 
+
+## 0. Installation
+
+```
+pip3 install ytbryan-fair
+```
+
+
 ## 1. How to use
 1. Write the list of names into `names_order.txt`. Alternatively, you can add them 
 ```
